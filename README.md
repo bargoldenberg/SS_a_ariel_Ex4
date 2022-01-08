@@ -1,2 +1,2 @@
 # SS_a_ariel_Ex4
-C project about graphs and graph algorithms
+C project about dynamic memory allocation, graphs and graph algorithms
